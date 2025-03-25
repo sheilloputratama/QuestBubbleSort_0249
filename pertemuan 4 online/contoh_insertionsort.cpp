@@ -20,4 +20,9 @@ while (true)
         cout << "\nArray yang anda masukkan maksimal 20 element.\n"; //menampilkan pesan jikan data lebih dari 20
     }
     }
+    cout << endl; // membuat jarak per baris program
+    cout << "=======================" << endl; // membuat tampilan sususan data element array
+    cout << "masukkan element array" << endl; 
+    cout << "======================" << endl;
     
+  
