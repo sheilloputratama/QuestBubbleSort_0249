@@ -69,5 +69,13 @@ while (true)
         }
     cout << endl; // ouput baris kosong    `
     }
-  
+    
+    int main()
+    {
+        input();
+        insertionSort();
+        display();
+        system("pause");
+        return 0;
+    }
     
